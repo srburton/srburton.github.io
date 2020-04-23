@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Burton - BLOG
+description: "Is programming like an art, abstract or landscape? it depends on you ..."
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "SrBurton"
+  email: "renatoburton96@gmail.com"
+  url: "https://www.linkedin.com/in/renatoburton/"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "SrBurton"
 year : "2020"
